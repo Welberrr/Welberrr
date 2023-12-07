@@ -1,4 +1,4 @@
-<h3>Estudante buscando ser desenvolvedora full-stack!</h3>
+<h3>Estudante buscando ser desenvolvedor full-stack!</h3>
 <div>
   <a href="https://github.com/Welberrr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Welberrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
 <div>
