@@ -1,7 +1,7 @@
 <h3>Estudante buscando ser desenvolvedor full-stack!</h3>
 <div>
   <a href="https://github.com/Welberrr">
- ![Welber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welberrr_icons=true&theme=radical)
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <br>
