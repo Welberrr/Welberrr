@@ -4,10 +4,6 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=transparent &include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-</div>
 <br>
 <h4>Em processo de aprendizado:</h4>
 <div>
