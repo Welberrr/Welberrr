@@ -8,9 +8,9 @@
 <br>
 <p> 🙋🏻‍♂️ Procuro me especializar e praticar ao máximo em tecnologias e linguagens tanto de front quanto de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
 <ul>
-  <li> <h4>ACADEMIC PROJECT</h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
-  <li> <h4>PERSONAL PROJECT</h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
-  <li> <h4>PROFESSIONAL PROJECT</h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
+  <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
+  <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
+  <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
 </ul>
 <h4>Conhecimentos em:</h4>
 <div>
