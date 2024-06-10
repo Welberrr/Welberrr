@@ -1,4 +1,4 @@
-<h3>Estudante buscando ser desenvolvedor full-stack!</h3>
+<h3>Estudante buscando ser desenvolvedor Back-End!</h3>
 <p> Olá, seja bem vindo ao meu perfil! Nele você encontrará todo o meu repertório tanto profissional quanto acadêmico, no qual todos os projetos estarão separados e catalogados para uma melhor compreesão dos ambientes e contextos nos quais foram feitos.</p><br>
 <div>
   <a href="https://github.com/Welberrr">
