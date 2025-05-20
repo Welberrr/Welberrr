@@ -6,7 +6,7 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <br>
-<p> 🙋🏻‍♂️ Procuro me especializar em tecnologias e linguagens de front e especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
+<p> 🙋🏻‍♂️ Procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
 <ul>
   <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
   <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
