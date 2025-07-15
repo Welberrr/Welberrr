@@ -10,6 +10,18 @@
 
 ###
 
+<p align="left">🚀 Procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
+
+###
+
+<ul>
+  <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
+  <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
+  <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
+</ul>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph.svg">
@@ -86,18 +98,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<p align="left">🚀 Procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
-
-###
-
-<ul>
-  <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
-  <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
-  <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
-</ul>
 
 ###
 
