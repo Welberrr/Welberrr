@@ -43,10 +43,6 @@
 
 ###
 
-<h4 align="left">Conhecimentos em:</h4>
-
-###
-
 <h3 align="left">💻Tecnologias e Linguagens</h3>
 
 ###
