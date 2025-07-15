@@ -8,7 +8,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-###
+#
 
 <p align="left">🚀 Procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
 
@@ -19,10 +19,6 @@
   <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
   <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
 </ul>
-
-###
-
-<img src="https://raw.githubusercontent.com/Welberrr/Welberrr/output/snake.svg" alt="Snake animation" />
 
 ###
 
