@@ -1,26 +1,121 @@
-<h3>Estudante buscando ser desenvolvedor Back-End!</h3>
-<p> Olá, seja bem vindo ao meu perfil! Nele você encontrará todo o meu repertório tanto profissional quanto acadêmico, no qual todos os projetos estarão separados e catalogados para uma melhor compreesão dos ambientes e contextos nos quais foram feitos.</p><br>
+<h1 align="left">🙋🏻‍♂️Olá, sou o Welber!</h1>
+
+###
+
+<p align="left">Desenvolvedor back-end em formação. Tenho focado meus estudos em java e Spring, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
 <div>
   <a href="https://github.com/Welberrr">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <br>
-<p> 🙋🏻‍♂️ Procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
+
+###
+
 <ul>
   <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
   <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
   <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
 </ul>
-<h4>Conhecimentos em:</h4>
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">⭐ GitHub Stats</h2>
+
+###
+
+<h4 align="left">Conhecimentos em:</h4>
+
+###
+
+<h3 align="left">💻Tecnologias e Linguagens</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-<br>
-<div>
-  <h4>Contato</h4>
-  <a href="https://www.linkedin.com/in/welber-henrique-rodrigues-costa" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+
+###
+
+<h3 align="left">📕Frameworks e Bibliotecas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
+
+###
+
+<h3 align="left">🛠️Ferramentas de Desenvolvimento</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<p align="left">🚀 Procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
+
+###
+
+<p align="left">ACADEMIC PROJECT 🎓 <br>Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos<br>PERSONAL PROJECT 👨🏻‍🦱<br>Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos<br>PROFESSIONAL PROJECT 👔<br>Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo</p>
+
+###
+
+<h2 align="left">Contatos:</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/welber-henrique-rodrigues-costa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="welberhenrique.costa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
