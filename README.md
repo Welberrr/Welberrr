@@ -10,23 +10,6 @@
 
 ###
 
-<div>
-  <a href="https://github.com/Welberrr">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<br>
-
-###
-
-<ul>
-  <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
-  <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
-  <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
-</ul>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Welberrr/Welberrr/output/pacman-contribution-graph.svg">
@@ -36,6 +19,15 @@
 ###
 
 <h2 align="left">⭐ GitHub Stats</h2>
+
+###
+
+<div>
+  <a href="https://github.com/Welberrr">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<br>
 
 ###
 
@@ -101,7 +93,11 @@
 
 ###
 
-<p align="left">ACADEMIC PROJECT 🎓 <br>Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos<br>PERSONAL PROJECT 👨🏻‍🦱<br>Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos<br>PROFESSIONAL PROJECT 👔<br>Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo</p>
+<ul>
+  <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
+  <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
+  <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
+</ul>
 
 ###
 
