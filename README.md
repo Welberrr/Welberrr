@@ -36,16 +36,17 @@
 
 ###
 
-<div>
+<div align="center">
   <a href="https://github.com/Welberrr">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Welberrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Welberrr&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 <br>
 
 ###
 
-<h3 align="left">💻Tecnologias e Linguagens</h3>
+<h3 align="left">🌐 Tecnologias e Linguagens</h3>
 
 ###
 
