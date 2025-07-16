@@ -6,7 +6,7 @@
 
 ###
 
-![snake gif](https://github.com/Welberrr/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Welberrr/Welberrr/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="left">Sobre mim</h2>
 
