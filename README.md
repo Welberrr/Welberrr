@@ -6,8 +6,6 @@
 
 ###
 
-![snake gif](https://github.com/welberrr/welberrr/blob/output/github-contribution-grid-snake.svg)
-
 <h2 align="left">Sobre mim</h2>
 
 ###
