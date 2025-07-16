@@ -1,12 +1,10 @@
-<h1 align="left">🙋🏻‍♂️Olá, sou o Welber!</h1>
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🙋🏻‍♂️;+Me+chamo+Welber!;" />
 </h1>
 
 ###
 
-<p align="left">Desenvolvedor back-end em formação. Tenho focado meus estudos em java e Spring, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.</p>
+<p align="left">💻 Desenvolvedor back-end em formação. Tenho focado meus estudos em java e Spring, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.</p>
 
 ###
 
