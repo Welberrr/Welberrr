@@ -37,7 +37,11 @@
 ###
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=welberrr-dev&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=welberrr&theme=matrix&bg_color=0d1117&row=2&column=3&no-bg=true&margin-w=15&margin-h=15&color=0aa5ff" 
+    alt="GitHub Trophies" 
+    style="max-width: 100%; height: auto;"
+  />
 </p>
 
 ###
