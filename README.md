@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=header"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🙋🏻‍♂️;+Me+chamo+Welber!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🙋🏻‍♂️;+Me+chamo+Welber!;+Estou+me+especializando+em+desenvolvimento+back+end!"/>
 </h1>
 
 ###
