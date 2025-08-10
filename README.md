@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Como desenvolvedor back-end, tenho focado meus estudos em java e Spring, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.</p>
+<p align="left">💻 Como desenvolvedor back-end, tenho focado meus estudos em java e Spring, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software</p>
 
 ###
 
