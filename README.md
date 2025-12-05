@@ -25,30 +25,68 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
-    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>, graduando em Análise e Desenvolvimento de Sistemas e Técnico em Informática. Atuo com desenvolvimento Full Stack, mantendo foco principal no Back-End e especialização no ecossistema <strong>Java</strong>.
+    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>, graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática. Atuo com desenvolvimento Full Stack, mantendo foco principal no Back-End e especialização no ecossistema <strong>Java</strong>.
 </p>
 
 <p align="left">
-    Minha trajetória combina a vivência técnica de suporte e desenvolvimento com a didática adquirida como professor de inglês, o que me proporciona facilidade na leitura de documentações internacionais e comunicação clara em equipe.
-</p>
-
-<p align="left">
-    <strong>Principais Competências:</strong><br>
-    ☕ <strong>Tech Stack:</strong> Java, Spring Boot, Angular, SQL, Git.<br>
-    ⚙️ <strong>Atuação:</strong> Desenvolvimento Full Stack (ênfase em Back-End), Automação e RPAs.<br>
-    🗣️ <strong>Soft Skills:</strong> Comunicação assertiva, inglês fluente e resolução de problemas.
+    Minha trajetória combina a vivência técnica de desenvolvimento e suporte com a didática adquirida como professor de inglês, o que me proporciona facilidade na leitura de documentações internacionais e comunicação clara em equipe.
 </p>
 
 <br>
 
-<h2 align="left">🚀 Projetos em Destaque</h2>
+<h2 align="left">🛠️ Domínio Tecnológico</h2>
 
-| Projeto | Stack | Descrição Rápida |
+<table align="left">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+      <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
+      <br>Selenium
+    </td>
+  </tr>
+</table>
+
+<br><br><br><br>
+
+<h2 align="left">📂 Engenharia & Soluções</h2>
+
+| Solução | Arquitetura & Stack | Impacto Técnico |
 | :--- | :--- | :--- |
-| **♟️ [Chess System](https://github.com/Welberrr/chess-system-java)** | Java, POO | Sistema de xadrez robusto via console com arquitetura em camadas e lógica complexa. |
-| **🧩 [Microfront-ends Suite](https://github.com/Welberrr/academic_microfront-ends_angular20)** | Angular, Webpack | Arquitetura distribuída com Module Federation integrando Vendas, Produtos e Gráficos. |
-| **👥 [Clients Manager](https://github.com/Welberrr/Academic_Crud-Angular-Material)** | Angular Material | SPA de gestão de clientes com consumo de API externa (BrasilAPI) e persistência local. |
-| **🏛️ [Bidding API](https://github.com/Welberrr/academic-projetointegrador)** | Java 21, Spring Boot | API RESTful para gestão de licitações públicas e credenciamento de empresas. |
+| **♟️ [Chess System](https://github.com/Welberrr/chess-system-java)** | **Java Puro**, POO, Clean Architecture | Sistema complexo com tratamento de exceções personalizadas, lógica de xeque-mate e IA básica via console. |
+| **🧩 [Microfront-ends Suite](https://github.com/Welberrr/academic_microfront-ends_angular20)** | **Angular**, Module Federation, Webpack 5 | Arquitetura distribuída escalável orquestrando múltiplos domínios (Vendas, Produtos) em uma única SPA. |
+| **👥 [Clients Manager](https://github.com/Welberrr/Academic_Crud-Angular-Material)** | **Angular Material**, RxJS, BrasilAPI | Gestão de clientes com persistência local otimizada e consumo reativo de APIs de geolocalização. |
+| **🏛️ [Bidding API](https://github.com/Welberrr/academic-projetointegrador)** | **Java 21**, Spring Boot 3, JPA | API RESTful para licitações públicas com gestão de credenciamento e validação de dados empresariais. |
 
 ###
 
@@ -61,28 +99,6 @@
   </a>
 </div>
 <br>
-
-###
-
-<h3 align="left">🌐 Tecnologias e Linguagens</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
 
 ###
 
