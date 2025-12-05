@@ -1,12 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=header"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=40&duration=5000&lines=Olá!+🙋🏻‍♂️;+Me+chamo+Welber!;+Estou+me+especializando+em+desenvolvimento+back+end!;+Seja+bem+vindo+ao+meu+perfil!!"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=40&duration=5000&lines=Olá!+🙋🏻‍♂️;+Eu+sou+o+Welber!;+Java+Back-end+Developer;+Estagiário+no+STF"/>
 </h1>
 
 ###
 
-<p align="left">💻 Como desenvolvedor back-end, tenho focado meus estudos em java e Spring, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software</p>
+<p align="center">
+  <strong>Transformando café ☕ em código limpo e escalável com Java e Spring Boot.</strong>
+</p>
 
 ###
 
@@ -20,25 +22,37 @@
 
 <h2 align="left">👾 Sobre mim</h2>
 
-###
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left">🚀 Tecnico em Informática e Graduando em Análise e Desenvolvimento de Sistemas, procuro me especializar em tecnologias e linguagens especialmente de back end. A seguir você poderá consultar uma pequena descrição do catálogo dos meus projetos!</p>
+<p align="left">
+    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>, graduando em Análise e Desenvolvimento de Sistemas e Técnico em Informática. Atuo com desenvolvimento Full Stack, mantendo foco principal no Back-End e especialização no ecossistema <strong>Java</strong>.
+</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left">
+    Minha trajetória combina a vivência técnica de suporte e desenvolvimento com a didática adquirida como professor de inglês, o que me proporciona facilidade na leitura de documentações internacionais e comunicação clara em equipe.
+</p>
 
-###
+<p align="left">
+    <strong>Principais Competências:</strong><br>
+    ☕ <strong>Tech Stack:</strong> Java, Spring Boot, Angular, SQL, Git.<br>
+    ⚙️ <strong>Atuação:</strong> Desenvolvimento Full Stack (ênfase em Back-End), Automação e RPAs.<br>
+    🗣️ <strong>Soft Skills:</strong> Comunicação assertiva, inglês fluente e resolução de problemas.
+</p>
 
-<ul>
-  <li> <h4>ACADEMIC PROJECT 🎓 </h4> - Repositórios de projetos acadêmicos, feitos em graduações e cursos diversos;</li>
-  <li> <h4>PERSONAL PROJECT 👨🏻‍🦱 </h4> - Repositórios de projetos pessoais, feitos como desafios para por em prática meus conhecimentos e conteúdos aprendidos;</li>
-  <li> <h4>PROFESSIONAL PROJECT 👔 </h4> - Reposítorios de projetos profissionais, feitos em âmbito empresarial ou autonomo.</li>
-</ul>
+<br>
+
+<h2 align="left">🚀 Projetos em Destaque</h2>
+
+| Projeto | Stack | Descrição Rápida |
+| :--- | :--- | :--- |
+| **♟️ [Chess System](https://github.com/Welberrr/chess-system-java)** | Java, POO | Sistema de xadrez robusto via console com arquitetura em camadas e lógica complexa. |
+| **🧩 [Microfront-ends Suite](https://github.com/Welberrr/academic_microfront-ends_angular20)** | Angular, Webpack | Arquitetura distribuída com Module Federation integrando Vendas, Produtos e Gráficos. |
+| **👥 [Clients Manager](https://github.com/Welberrr/Academic_Crud-Angular-Material)** | Angular Material | SPA de gestão de clientes com consumo de API externa (BrasilAPI) e persistência local. |
+| **🏛️ [Bidding API](https://github.com/Welberrr/academic-projetointegrador)** | Java 21, Spring Boot | API RESTful para gestão de licitações públicas e credenciamento de empresas. |
 
 ###
 
 <h2 align="left">⭐ GitHub Stats</h2>
-
-###
 
 <div align="center">
   <a href="https://github.com/Welberrr">
@@ -52,29 +66,22 @@
 
 <h3 align="left">🌐 Tecnologias e Linguagens</h3>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ###
