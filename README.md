@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <strong>Transformando desafios complexos em software eficiente e de alta performance.</strong>
+  <strong>Construindo arquiteturas resilientes e soluções escaláveis com a robustez do ecossistema Java.</strong>
 </p>
 
 ###
@@ -24,12 +24,26 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
+<br>
+
 <p align="left">
-    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>, graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática. Atuo com desenvolvimento Full Stack, mantendo foco principal no Back-End e especialização no ecossistema <strong>Java</strong>.
+    🔭 <strong>Atualmente:</strong><br>
+    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>.
 </p>
 
 <p align="left">
-    Minha trajetória combina a vivência técnica de desenvolvimento e suporte com a didática adquirida como professor de inglês, o que me proporciona facilidade na leitura de documentações internacionais e comunicação clara em equipe.
+    🚀 <strong>Foco Técnico:</strong><br>
+    Atuo como Full Stack, com especialização no <strong>Back-End</strong> e no ecossistema <strong>Java</strong>.
+</p>
+
+<p align="left">
+    🇺🇸 <strong>Diferencial:</strong><br>
+    Minha vivência como <strong>Professor de Inglês</strong> me proporciona leitura fluente de documentações internacionais e comunicação assertiva em equipe.
+</p>
+
+<p align="left">
+    ⚡ <strong>Objetivo:</strong><br>
+    Transformar café em código limpo, alinhando teoria acadêmica às demandas reais do mercado.
 </p>
 
 <br>
@@ -93,24 +107,13 @@
 
 <br><br><br><br><br><br><br><br>
 
-<h2 align="left">⚙️ Metodologias & Workflow</h2>
+<h2 align="left">🎓 Formação & Idiomas</h2>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Methodology-Scrum-blue?style=for-the-badge&logo=scrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow-Kanban-blue?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-success?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-MVC-orange?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Versioning-GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="left">🎯 Foco de Estudos Atuais</h3>
 <ul>
-    <li>🚀 <strong>Arquitetura de Microsserviços:</strong> Aprofundamento em comunicação entre serviços e escalabilidade.</li>
-    <li>☁️ <strong>Cloud Computing:</strong> Deploy e infraestrutura em nuvem.</li>
-    <li>🔒 <strong>Segurança de Aplicações:</strong> Implementação de OAuth2 e JWT em APIs Java.</li>
+    <li>🎓 <strong>Análise e Desenvolvimento de Sistemas</strong> (Superior)</li>
+    <li>💻 <strong>Técnico em Informática</strong> (Técnico)</li>
+    <li>🇺🇸 <strong>Inglês Fluente</strong> (Docência e Leitura Técnica)</li>
+    <li>🇧🇷 <strong>Português</strong> (Nativo)</li>
 </ul>
 
 ###
