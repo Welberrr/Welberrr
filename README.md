@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <strong>Transformando café ☕ em código limpo e escalável com Java e Spring Boot.</strong>
+  <strong>Transformando desafios complexos em software eficiente e de alta performance.</strong>
 </p>
 
 ###
@@ -38,55 +38,80 @@
 
 <table align="left">
   <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br>Java
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+      <br><strong>Java</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
-      <br>Spring Boot
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
+      <br><strong>Spring Boot</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
-      <br>Angular
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" />
+      <br><strong>Angular</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br>TypeScript
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      <br>Docker
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      <br><strong>Docker</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+      <br><strong>MySQL</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <br>Postgres
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      <br><strong>Postgres</strong>
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br>Git
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      <br><strong>Git</strong>
     </td>
-      <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
-      <br>Selenium
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" />
+      <br><strong>Selenium</strong>
+    </td>
+     <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node" />
+      <br><strong>Node.js</strong>
+    </td>
+     <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+      <br><strong>CSS3</strong>
     </td>
   </tr>
 </table>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-<h2 align="left">📂 Engenharia & Soluções</h2>
+<h2 align="left">⚙️ Metodologias & Workflow</h2>
 
-| Solução | Arquitetura & Stack | Impacto Técnico |
-| :--- | :--- | :--- |
-| **♟️ [Chess System](https://github.com/Welberrr/chess-system-java)** | **Java Puro**, POO, Clean Architecture | Sistema complexo com tratamento de exceções personalizadas, lógica de xeque-mate e IA básica via console. |
-| **🧩 [Microfront-ends Suite](https://github.com/Welberrr/academic_microfront-ends_angular20)** | **Angular**, Module Federation, Webpack 5 | Arquitetura distribuída escalável orquestrando múltiplos domínios (Vendas, Produtos) em uma única SPA. |
-| **👥 [Clients Manager](https://github.com/Welberrr/Academic_Crud-Angular-Material)** | **Angular Material**, RxJS, BrasilAPI | Gestão de clientes com persistência local otimizada e consumo reativo de APIs de geolocalização. |
-| **🏛️ [Bidding API](https://github.com/Welberrr/academic-projetointegrador)** | **Java 21**, Spring Boot 3, JPA | API RESTful para licitações públicas com gestão de credenciamento e validação de dados empresariais. |
+<div align="left">
+  <img src="https://img.shields.io/badge/Methodology-Scrum-blue?style=for-the-badge&logo=scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow-Kanban-blue?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-success?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MVC-orange?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Versioning-GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br>
+
+<h3 align="left">🎯 Foco de Estudos Atuais</h3>
+<ul>
+    <li>🚀 <strong>Arquitetura de Microsserviços:</strong> Aprofundamento em comunicação entre serviços e escalabilidade.</li>
+    <li>☁️ <strong>Cloud Computing:</strong> Deploy e infraestrutura em nuvem.</li>
+    <li>🔒 <strong>Segurança de Aplicações:</strong> Implementação de OAuth2 e JWT em APIs Java.</li>
+</ul>
 
 ###
 
