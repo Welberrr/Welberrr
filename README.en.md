@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/Leia%20em-Português-green?style=for-the-badge&logo=google-translate&logoColor=white" alt="Versão em Português"/>
   </a>
 
-  <br>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/welberrr/welberrr/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/welberrr/welberrr/output/pacman-contribution-graph.svg">
@@ -132,7 +130,5 @@
     <li>🗣️ <strong>Fluent English</strong> (Teaching & Technical Reading)</li>
     <li>💬 <strong>Portuguese</strong> (Native)</li>
 </ul>
-
-<br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
