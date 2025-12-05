@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="English Version"/>
   </a>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/welberrr/welberrr/output/pacman-contribution-graph-dark.svg">
@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="left">👾 Sobre mim</h2>
+<h2 align="center">👾 Sobre mim</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
@@ -50,9 +50,9 @@
     Focado na evolução técnica contínua e aprofundamento arquitetural, trilhando o caminho para a senioridade em <strong>Back-End Java</strong>.
 </p>
 
-<br><br>
+<br>
 
-<h2 align="left">⭐ GitHub Stats</h2>
+<h2 align="center">⭐ GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/Welberrr">
@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h2 align="center">🛠️ Domínio Tecnológico</h2>
 
@@ -122,7 +122,7 @@
 </table>
 </div>
 
-<br><br>
+<br>
 
 <h2 align="left">🎓 Formação & Idiomas</h2>
 
@@ -133,6 +133,6 @@
     <li>💬 <strong>Português</strong> (Nativo)</li>
 </ul>
 
-<br><br>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
