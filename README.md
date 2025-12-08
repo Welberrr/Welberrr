@@ -36,7 +36,7 @@
 
 <p align="left">
     🚀 <strong>Foco Técnico:</strong><br>
-    Atuo como Full Stack, com especialização no <strong>Back-End</strong> e no ecossistema <strong>Java</strong>.
+    Atuo como Full Stack, com ênfase no <strong>Back-End</strong> e no ecossistema <strong>Java</strong>.
 </p>
 
 <p align="left">
