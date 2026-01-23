@@ -129,6 +129,7 @@
     <li>🎓 <strong>Análise e Desenvolvimento de Sistemas</strong> (Superior)</li>
     <li>💻 <strong>Técnico em Informática</strong> (Técnico)</li>
     <li>🗣️ <strong>Inglês Fluente</strong> (Docência e Leitura Técnica)</li>
+  <li>🗣️ <strong>Espanhol Intermediário</strong></li>
     <li>💬 <strong>Português</strong> (Nativo)</li>
 </ul>
 
