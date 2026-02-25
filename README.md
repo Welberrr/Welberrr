@@ -31,7 +31,7 @@
 
 <p align="left">
     🔭 <strong>Atualmente:</strong><br>
-    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>.
+    Estagiário de Desenvolvimento no <strong>Supremo Tribunal Federal (STF)</strong>
 </p>
 
 <p align="left">
