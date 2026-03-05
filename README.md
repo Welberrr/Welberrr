@@ -126,10 +126,14 @@
 <h2 align="left">🎓 Formação & Idiomas</h2>
 
 <ul>
+  <h3 align="left">Formado em:</h3>
     <li>🎓 <strong>Análise e Desenvolvimento de Sistemas</strong> (Superior)</li>
     <li>💻 <strong>Técnico em Informática</strong> (Técnico)</li>
+    <li>👨🏻‍💻 <strong> Desenvolvimento Web</strong> (Cursando)</li>
+  <br>
+  <h3 align="left">Idiomas</h3>
     <li>🗣️ <strong>Inglês Fluente</strong></li>
-  <li>🗣️ <strong>Espanhol Intermediário</strong></li>
+    <li>🗣️ <strong>Espanhol Intermediário</strong></li>
     <li>💬 <strong>Português</strong> (Nativo)</li>
 </ul>
 
