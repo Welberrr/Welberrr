@@ -41,7 +41,7 @@
 
 <p align="left">
     💡 <strong>Diferencial:</strong><br>
-    Minha vivência como <strong>Professor de Inglês</strong> me proporciona leitura fluente de documentações internacionais e comunicação assertiva em equipe.
+Uno conhecimento técnico em desenvolvimento de sistemas com forte capacidade de comunicação, trabalho em equipe e adaptação a diferentes contextos — formando um perfil profissional equilibrado entre hard skills e soft skills.
 </p>
 
 <p align="left">
