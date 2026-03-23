@@ -134,7 +134,7 @@ Uno conhecimento técnico em desenvolvimento de sistemas com forte capacidade de
   <h3 align="left">Idiomas</h3>
     <li>🗣️ <strong>Inglês Fluente</strong></li>
     <li>🗣️ <strong>Espanhol Intermediário</strong></li>
-    <li>🗣️ <strong>Português</strong> (Nativo)</li>   a
+    <li>🗣️ <strong>Português</strong> (Nativo)</li>
 </ul>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
