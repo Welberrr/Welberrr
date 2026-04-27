@@ -6,7 +6,7 @@
   </h1>
 
   <p align="center">
-    <strong>Construindo arquiteturas resilientes e soluções escaláveis com a robustez do ecossistema Java.</strong>
+    <strong>Construindo arquiteturas resilientes e soluções escaláveis com a robustez do ecossistema Java e Angular.</strong>
   </p>
 
   <a href="./README.en.md">
