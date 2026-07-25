@@ -140,5 +140,4 @@ Uno conhecimento técnico em desenvolvimento de sistemas com forte capacidade de
 
 
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
